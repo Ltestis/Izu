@@ -1,0 +1,25 @@
+{
+  "name": "Izu-Ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Muhammad Adriansyah",
+  "license": "MIT",
+  "dependencies": {
+    "@xyzendev/baileys": "latest",
+    "aki-api": "latest",
+    "axios": "latest",
+    "chalk": "latest",
+    "dotenv": "^16.4.5",
+    "file-type": "^19.0.0",
+    "fluent-ffmpeg": "latest",
+    "fs": "latest",
+    "moment-timezone": "latest",
+    "node-fetch": "latest",
+    "readline": "^1.3.0"
+  }
+}
