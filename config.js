@@ -11,7 +11,7 @@ global.thumbnailUrl = 'https://telegra.ph/file/ecea75426746c3debcde2.jpg';
 
 global.pairing_code = {
   status: true,
-  number: '',
+  number: '62856649683709',
 };
 
 global.mess = {
